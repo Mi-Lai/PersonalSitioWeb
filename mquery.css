@@ -1,0 +1,30 @@
+@media (max-width: 1300px) {
+    body{
+        text-align: center;
+    }
+ 
+    h1{
+        color: rgb(193, 11, 117);
+        background-color: rgb(155, 234, 96);
+        border: 1px solid black;
+    }
+ 
+    p{
+        font-size: 25px;
+        background-color: rgb(189, 151, 230);.
+    }
+    ul{
+        font-size: 25px;
+        background-color: rgb(125, 2, 107);.
+    }
+
+ img{
+    height: 125px;
+    width: 100px;
+ }
+
+
+
+
+
+  }
